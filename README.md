@@ -18,9 +18,9 @@ Leveraging the power of quantum computing to solve the hurdles of the financial 
 
 ### References
 
-[1] https://www.nature.com/articles/s41534-019-0130-6,
-[2] https://ieeexplore.ieee.org/document/9222275/
-[3] https://arxiv.org/abs/quant-ph/0110046
-[4] https://journals.aps.org/pre/abstract/10.1103/PhysRevE.99.013304
-[5] https://arxiv.org/pdf/1912.05559.pdf
-[6] https://arxiv.org/pdf/2006.14510.pdf
+- [1] https://www.nature.com/articles/s41534-019-0130-6,
+- [2] https://ieeexplore.ieee.org/document/9222275/
+- [3] https://arxiv.org/abs/quant-ph/0110046
+- [4] https://journals.aps.org/pre/abstract/10.1103/PhysRevE.99.013304
+- [5] https://arxiv.org/pdf/1912.05559.pdf
+- [6] https://arxiv.org/pdf/2006.14510.pdf
