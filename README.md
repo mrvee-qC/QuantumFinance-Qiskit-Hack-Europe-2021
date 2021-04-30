@@ -6,8 +6,8 @@ This is the official team repository for the Qiskit Hack Europe 2021 project on 
 
 - Vishal Sharathchandra Bajpe - @mrvee-qC
 - Anuj Mehrotra - @iotasolutions
-- Kaveri Priya Putti
-- Saasha Joshi
+- Kaveri Priya Putti - @kaveripriyap
+- Saasha Joshi - @SaashaJoshi
 - Simran Kaur
 
 ## The Pitch
